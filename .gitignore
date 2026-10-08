@@ -1,0 +1,10 @@
+# Local credentials: do not commit
+config.h
+
+# Local build artifacts and editor files
+build/
+*.bin
+*.elf
+*.map
+.vscode/
+.DS_Store
